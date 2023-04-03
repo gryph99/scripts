@@ -4,4 +4,4 @@ A quick script for backing up the custom data uploaded to your bookstack instanc
 
 ## Before running this script
 
-1. Set Database username and passwordS
+1. Set Database username and passwords.
